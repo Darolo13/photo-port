@@ -9,13 +9,12 @@ function Nav(props) {
         contactSelected,
         setContactSelected
     } = props;
-
-
+/*
     const handleClick = (item) => {
         console.log(item);
         return item;
     };
-
+ */
     return (
         <header className="flex-row px-1">
             <h2>
